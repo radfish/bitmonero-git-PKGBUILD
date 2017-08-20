@@ -1,5 +1,5 @@
-# Maintainer: Onishin <onishin at onishin dot org>
-# Co-maintainer: redfish <redfish at galactica dot pw>
+# Maintainer: redfish <redfish at galactica dot pw>
+# Contributor: Onishin <onishin at onishin dot org>
 
 pkgbase=('monero-git')
 pkgname=('monero-git' 'libmonero-wallet-git')
